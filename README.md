@@ -2,8 +2,8 @@
 
 
 # Api endpoint routes//
-Register-Admin
-Register-User
+* Register-Admin
+* Register-User
 Login
 Revoke-user
 Revoke-all
