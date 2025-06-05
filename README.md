@@ -1,7 +1,7 @@
-##Jwt and Refresh Token API
+## Jwt and Refresh Token API
 
 
-#Api endpoint routes//
+# Api endpoint routes//
 Register-Admin
 Register-User
 Login
