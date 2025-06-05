@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bkjqmiVWqMmga1Cbx5XfnaHRk+3yCbaAuGdHgLfVpQU=",
+  "Source": "JwtRefreshToken101",
+  "BasePath": "_content/JwtRefreshToken101",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
